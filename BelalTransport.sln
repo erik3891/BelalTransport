@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelalTransport", "BelalTransport\BelalTransport.csproj", "{E2D99E04-322E-41D5-8046-03C795ECE94E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{D5C3A19F-3272-4708-AC47-F5C063DF15CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E2D99E04-322E-41D5-8046-03C795ECE94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2D99E04-322E-41D5-8046-03C795ECE94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2D99E04-322E-41D5-8046-03C795ECE94E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C3A19F-3272-4708-AC47-F5C063DF15CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C3A19F-3272-4708-AC47-F5C063DF15CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C3A19F-3272-4708-AC47-F5C063DF15CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C3A19F-3272-4708-AC47-F5C063DF15CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
