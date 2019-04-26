@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace BelalTransport
 {
-    public class Udgift
+    public class Resultat
     {
-        public List<double> liste = new List<double>();
-        //liste.Add();
+        double total = Indtægt.
     }
 }
