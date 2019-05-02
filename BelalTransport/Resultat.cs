@@ -9,6 +9,6 @@ namespace BelalTransport
     public class Resultat
     {
         double total = Indtægt;
-            double total = Indtægt;
+            double total = Udgift;
     }
 }
