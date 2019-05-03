@@ -8,7 +8,11 @@ namespace BelalTransport
 {
     public class Resultat
     {
-        double total = Indtægt;
-        double resultat = Indtægt - Udgift;
+        public int Lommeregner(List<int> indtægtList, List<int> udgiftsListe)
+        {
+            int indtægtSum = indtægtList.Sum();
+            int udgiftSum = udgiftsListe.Sum();
+            return indtægtSum - udgiftSum;
+        }
     }
 }
